@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1694982022 source:c:\users\rocio y brisa\desktop\guía listas dobles\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
